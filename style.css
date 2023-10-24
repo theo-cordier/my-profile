@@ -1,0 +1,56 @@
+#pdp {
+	height: 220px;
+	width: 180px;
+	border-radius: 50%;
+}
+
+body {
+	background-color: #9A95D2;
+	font-family: Poppins, sans-serif;
+	color: white;
+}
+
+p{
+	color:darkblue;
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	color: yellow;
+	text-decoration: none;
+	hover: red;
+}
+
+a:hover {
+	color: darkblue;
+	text-decoration: underline;
+	style: bold;
+}
+
+#img-usdem{
+	border: 5px solid darkred;
+	border-radius: 20%;
+	height: 270px;
+	width: 310px;
+	align-content: center;
+}
+
+#titre_page{
+	color: darkblue;
+}
+
+div {
+	background-color: #3190A6;
+	margin: 40px 200px 40px 200px;
+	padding: 20px 20px;
+	box-shadow: 3px 3px 10px black;
+	border: 3px solid rgba(0.5,0.5,0.5,0.5);
+}
+
+#emoji{
+	font-size: 30px;
+}
